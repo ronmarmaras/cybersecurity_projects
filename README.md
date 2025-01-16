@@ -1,4 +1,4 @@
 # cyber_security_tools
-Documenting my hacking journey.
+Documenting my cyber security journey.
 
 The Materials saved in this Repo are mostly coming from the Linux Basics for Hackers book.
